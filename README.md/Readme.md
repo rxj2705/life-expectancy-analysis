@@ -2,8 +2,6 @@
 
 Data cleaning, analysis and visualisation of life expectancy across 193 countries, using Python (Pandas and Matplotlib).
 
-![Life expectancy trend](images/01_trend_by_status.png)
-
 ## Dataset
 - **Source:** [Life Expectancy Analysis on Kaggle](https://www.kaggle.com/datasets/nailasrivastava/life-expectancy-analysis), originally from WHO and UN data
 - **Size:** 2,938 rows × 22 columns, 193 countries, 2000–2015
